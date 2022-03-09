@@ -1,0 +1,61 @@
+﻿pick_number,team,player,college,games_played,minutes_played,points,rebounds,assists
+1,DET,Cade Cunningham,Oklahoma State,51,1636,843,295,265
+2,HOU,Jalen Green,,50,1553,769,162,124
+3,CLE,Evan Mobley,USC,57,1944,842,470,147
+4,TOR,Scottie Barnes,Florida State,56,1983,836,427,185
+5,ORL,Jalen Suggs,Gonzaga,43,1204,538,160,192
+6,OKC,Josh Giddey,,54,1700,674,421,345
+7,GSW,Jonathan Kuminga,,54,849,476,164,43
+8,ORL,Franz Wagner,Michigan,66,2096,1023,304,198
+9,SAC,Davion Mitchell,Baylor,60,1538,597,132,199
+10,NOP,Ziaire Williams,Stanford,47,1020,352,94,41
+11,CHO,James Bouknight,UConn,28,296,140,48,23
+12,SAS,Joshua Primo,Alabama,35,570,176,71,50
+13,IND,Chris Duarte,Oregon,53,1490,700,215,113
+14,GSW,Moses Moody,Arkansas,41,469,188,66,18
+15,WAS,Corey Kispert,Gonzaga,58,1201,403,152,60
+16,OKC,Alperen Şengün,,57,1086,506,281,139
+17,MEM,Trey Murphy III,Virginia,45,532,169,89,23
+18,OKC,Tre Mann,Florida,52,1115,479,130,67
+19,NYK,Kai Jones,Texas,19,58,20,10,4
+20,ATL,Jalen Johnson,Duke,15,67,29,17,1
+21,NYK,Keon Johnson,Tennessee,20,254,90,38,22
+22,LAL,Isaiah Jackson,Kentucky,27,334,195,100,8
+23,HOU,Usman Garuba,,15,105,19,34,8
+24,HOU,Josh Christopher,Arizona State,57,955,404,129,106
+25,LAC,Quentin Grimes,Houston,40,696,253,77,38
+26,DEN,Bones Hyland,VCU,53,933,464,140,115
+27,BRK,Cam Thomas,LSU,55,1048,523,138,73
+28,PHI,Jaden Springer,Tennessee,2,6,2,2,0
+29,PHO,Day'Ron Sharpe,UNC,32,391,198,160,17
+30,UTA,Santi Aldama,Loyola (MD),27,277,90,64,14
+31,MIL,Isaiah Todd,,10,41,16,10,3
+32,NYK,Jeremiah Robinson-Earl,Villanova,44,1014,314,254,44
+33,ORL,Jason Preston,Ohio University,,,,,
+34,OKC,Rokas Jokubaitis,,,,,,
+35,NOP,Herbert Jones,Alabama,62,1863,582,245,130
+36,OKC,Miles McBride,West Virginia,26,201,46,20,27
+37,DET,JT Thor,Auburn,24,236,63,38,18
+38,CHI,Ayo Dosunmu,Illinois,60,1593,504,171,192
+39,SAC,Neemias Queta,Utah State University,10,56,21,19,4
+40,NOP,Jared Butler,Baylor,29,221,96,23,35
+41,SAS,Joe Wieskamp,Iowa,17,95,37,8,5
+42,DET,Isaiah Livers,Michigan,6,64,22,6,6
+43,NOP,Greg Brown III,Texas,32,308,114,70,11
+44,BRK,Kessler Edwards,Pepperdine,33,749,201,130,22
+45,BOS,Juhann Begarin,,,,,,
+46,TOR,Dalano Banton,Nebraska,54,613,185,109,83
+47,TOR,David Johnson,Louisville,2,2,0,0,0
+48,ATL,Sharife Cooper,Auburn,11,35,7,5,5
+49,BRK,Marcus Zegarowski,Creighton,,,,,
+50,PHI,Filip Petrušev,Gonzaga,,,,,
+51,MEM,Brandon Boston Jr.,Kentucky,46,674,304,101,41
+52,DET,Luka Garza,Iowa,29,340,151,87,16
+53,PHI,Charles Bassey,Western Kentucky,23,168,69,62,7
+54,IND,Sandro Mamukelashvili,Seton Hall,35,324,110,64,16
+55,OKC,Aaron Wiggins,Maryland,39,889,279,136,40
+56,CHO,Scottie Lewis,Florida,2,7,1,0,1
+57,CHO,Balša Koprivica,Florida State,,,,,
+58,NYK,Jericho Sims,Texas,24,207,26,63,6
+59,BRK,RaiQuan Gray,Florida State,,,,,
+60,IND,Georgios Kalaitzakis,,9,48,16,8,0

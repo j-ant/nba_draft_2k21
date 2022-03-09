@@ -1,0 +1,31 @@
+﻿name_abrv,franchise_name,date_founded,games,wins,losses,playoff_participation,championships_won
+ATL,Atlanta Hawks,1949-50,5754,2838,2916,47,1
+BOS,Boston Celtics,1946-47,5934,3501,2433,58,17
+BKN,Brooklyn Nets,1967-68,4431,1939,2492,29,2
+CHA,Charlotte Hornets,1988-89,2532,1115,1417,10,0
+CHI,Chicago Bulls,1966-67,4498,2297,2201,35,6
+CLE,Cleveland Cavaliers,1970-71,4171,1926,2245,22,1
+DAL,Dallas Mavericks,1980-81,3361,1696,1665,23,1
+DEN,Denver Nuggets,1967-68,4431,2247,2184,36,0
+DET,Detroit Pistons,1948-49,5816,2790,3026,42,3
+GSW,Golden State Warriors,1946-47,5921,2869,3052,35,6
+HOU,Houston Rockets,1967-68,4424,2302,2122,34,2
+IND,Indiana Pacers,1967-68,4432,2272,2160,36,3
+LAC,Los Angeles Clippers,1970-71,4180,1740,2440,16,0
+LAL,Los Angeles Lakers,1948-49,5821,3455,2366,62,17
+MEM,Memphis Grizzlies,1995-96,2131,908,1223,11,0
+MIA,Miami Heat,1988-89,2704,1421,1283,22,3
+MIL,Milwaukee Bucks,1968-69,4344,2271,2073,33,2
+MIN,Minnesota Timberwolves,1989-90,2613,1039,1574,9,0
+NOP,New Orleans Pelicans,2002-03,1586,731,855,7,0
+NYK,New York Knicks,1946-47,5923,2866,3057,43,2
+OKC,Oklahoma City Thunder,1967-68,4424,2369,2055,32,1
+ORL,Orlando Magic,1989-90,2622,1228,1394,16,0
+PHI,Philadelphia 76ers,1949-50,5758,2988,2770,51,3
+PHX,Phoenix Suns,1968-69,4343,2322,2021,30,0
+POR,Portland Trail Blazers,1970-71,4179,2236,1943,37,1
+SAC,Sacramento Kings,1948-49,5825,2648,3177,29,1
+SAS,San Antonio Spurs,1967-68,4429,2629,1800,47,5
+TOR,Toronto Raptors,1995-96,2128,1016,1112,12,1
+UTA,Utah Jazz,1974-75,3849,2100,1749,30,0
+WAS,Washington Wizards,1961-62,4904,2216,2688,30,1

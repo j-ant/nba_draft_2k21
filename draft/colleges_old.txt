@@ -1,0 +1,52 @@
+name, address, date_established
+Oklahoma State, Stillwater, 25-12-1890
+USC, Los Angeles, 6-10-1880
+Florida State, 
+Gonzaga
+Michigan
+Baylor
+Stanford
+UConn
+Alabama
+Oregon
+Arkansas
+Gonzaga
+Virginia
+Florida
+Texas
+Duke
+Tennessee
+Kentucky
+Arizona State
+Houston
+VCU
+LSU
+Tennessee
+UNC
+Loyola (MD)
+Villanova
+Ohio University
+Alabama
+West Virginia
+Auburn
+Illinois
+Utah State University
+Baylor
+Iowa
+Michigan
+Texas
+Pepperdine
+Nebraska
+Louisville
+Auburn
+Creighton
+Gonzaga
+Kentucky
+Iowa
+Western Kentucky
+Seton Hall
+Maryland
+Florida
+Florida State
+Texas
+Florida State
