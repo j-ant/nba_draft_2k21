@@ -1,4 +1,4 @@
-﻿pick_number,team,player,college,games_played,minutes_played,points,rebounds,assists
+﻿pick_number,team,player_name,college,games_played,minutes_played,points,rebounds,assists
 1,DET,Cade Cunningham,Oklahoma State,51,1636,843,295,265
 2,HOU,Jalen Green,,50,1553,769,162,124
 3,CLE,Evan Mobley,USC,57,1944,842,470,147

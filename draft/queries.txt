@@ -1,0 +1,8 @@
+which franchise has most rookie playing time?
+Which city does the rookie with most points come from? (Assuming rookies are from the same city as they went to college)
+which college produced the most nba rookies this season?
+How many rookies did not go to college?
+which team has drafted the most rookies?
+Create view rookie details
+Create view teams with details
+List teams
