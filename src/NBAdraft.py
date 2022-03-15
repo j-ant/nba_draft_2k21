@@ -36,11 +36,15 @@ def create_rookies_table():
       rebounds int,
       assists int,
       PRIMARY KEY (pick_number),
-      FOREIGN KEY (college) REFERENCES colleges(name),
-      FOREIGN KEY (team) REFERENCES teams(name_abrv)
+      FOREIGN KEY (team) REFERENCES teams(name_abrv),
+      FOREIGN KEY (college) REFERENCES colleges(name)
     )
   ''')
-  cursor.execute(rookies_table)
+
+  try:
+    cursor.execute(rookies_table)
+  except mysql.connector.Error as err:
+    print(err)
 
 def create_teams_table():
   teams_table = ('''
@@ -53,7 +57,7 @@ def create_teams_table():
       losses int,
       playoff_participation int,
       championships_won int,
-      PRIMARY KEY (franchise_name)
+      PRIMARY KEY (name_abrv)
     )
   ''')
   cursor.execute(teams_table)
